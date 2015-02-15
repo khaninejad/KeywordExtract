@@ -11,4 +11,4 @@ echo "<pre>";
 print_r($rate1);
 print_r($rate2);
 print_r($level1);
-echo "</pre>"```
+echo "</pre>"
