@@ -1,0 +1,13 @@
+{
+    "name": "khaninejad/keyword-extract",
+    "description": "Extract keywords from a text or string",
+    "homepage": "https://copify.ir",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Payam Khaninejad",
+            "email": "khaninejad@gmail.com"
+        }
+    ],
+    "require": {}
+}
